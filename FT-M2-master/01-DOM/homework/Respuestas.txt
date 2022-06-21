@@ -1,0 +1,19 @@
+DOM:
+
+El DOM es un modelo hecho con objetos de javascript, que se construye a partir a de un archivo HTML que es leido por el navegador. Cada elemento HTML de ese archivo se vera representado por un objeto javascript en el DOM. Existe un objeto, el objeto global, que es aquel que contiene y nos provee acceso a todas las propiedades de la pagina. En este caso, ese objeto es el document.
+
+DOM Element Selectors
+
+Para poder acceder y modificar las propiedades y elementos del DOM, se hace uso de los Element Selectors. Existen varios tipos:
+GetElementById
+GetElementsByClassname
+querySelector
+
+funcionan como los selectores de css, pero accediendo a ellos desde el document, puedo modificar sus propiedades en el DOM. Recordar que los selectores de css son:
+# para Id unico de elemento
+.Class para clase reutilizable
+<tag> para afectar a todos los elementos de ese tipo de tag.
+
+DOM Events
+
+un Evento es una accion que el usuario ejecuta en la pagina, la cual puede capturarse y utilizarse de varias maneras, entre ellas, principalmente para disparar funciones al momento de detectarse dicho evento.
