@@ -1,0 +1,12 @@
+Framework:
+
+Un Framework, Marco de trabajo, es una herramienta que nos facilita la tarea de creacion de codigo ofreciendonos una manera estandarizada de fabricacion de elementos. Un framework CSS es un conjunto de estilos predefinidos que se utilizan para la creacion de interfaces graficas de manera rapida y sencilla.
+
+Preprocesador
+
+Un Preprocesador es una herramienta que transpila codigo del mismo lenguaje pero en distintas sintaxis. Usualmente la nueva sintaxis que ofrece el preprocesador mejora la efectividad a la hora de crear el codigo y aniade funciones que no existen en su forma base, como CSS puro por ejemplo, que no posee variables ni funciones.
+
+Responsive website
+
+Un sitio web responsivo es un sitio cuyos elementos se comportan de manera distinta en base a las caracteristicas del viewport.
+--Viewport: es el espacio en pantalla en el cual se dibujan los elementos de la web.
