@@ -15,6 +15,7 @@
 
     img {
       border-radius: 8px;
+
     }
 
   }
@@ -78,4 +79,49 @@
       }
     }
   }
+}
+
+@media screen and (max-width: 600px) {
+  .home {
+    .actual {
+      .actual-text
+    .intro {
+      img {
+        max-width: 50rem;
+        border-radius: 8px;
+      }
+      p {
+        padding:0 15px;
+        max-width: 50rem;
+      }
+
+      .music-images {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    
+        img {
+          width: 28%;
+          margin: 20px 2.5%;
+          border-radius: 0px;
+          height: 150%;
+        }
+      }
+    }
+  }
+
+  .tecnologia{
+    display: none;
+  }
+
+  .ondas{
+    display: none;
+  }
+
+  .auricular{
+    flex-wrap: nowrap;
+    display: block;
+    color: aqua;
+  }
+}
 }
