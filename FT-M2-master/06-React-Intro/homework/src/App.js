@@ -26,7 +26,7 @@ function App() {
       <hr />
       <div>
         <SearchBar
-          onSearch={(ciudad) => alert(ciudad)}
+          onSearch={(ciudad) => alert('Córdoba papá')}
         />
       </div>
     </div>
